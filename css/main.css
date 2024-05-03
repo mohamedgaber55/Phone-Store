@@ -611,7 +611,7 @@ header .container .logo :hover{
         flex-direction: column;
     }
     .about .vector img {
-        width: 380px;
+        width: 360px;
         left: 0px;
     }
     .about .text {
