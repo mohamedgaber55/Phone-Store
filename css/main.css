@@ -421,7 +421,7 @@ header .container .logo :hover{
         right: 9px;
     }
     .landing .home .container .vector img {
-        width: 370px;
+        width: 360px;
         height: 290px;
         position: relative;
         right: 0px;
@@ -434,7 +434,7 @@ header .container .logo :hover{
         margin-left: 0px;
     }
     .landing .home .container .text h1 {
-        font-size: 31px;
+        font-size: 30px;
     }
     .landing .home .container .text h3 {
         font-size: 16px;
@@ -457,8 +457,8 @@ header .container .logo :hover{
         width: 130px;
         height: 65px;
         padding-right: 0;
-        padding-left: 200px;
-        padding-top: 100px;
+        padding-left: 0px;
+        padding-top: 0px;
     }
 }
 
