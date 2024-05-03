@@ -773,7 +773,7 @@ header .container .logo :hover{
     position: relative;
 }
 .categories .container .text::after{
-    box-shadow: 0px 0px 3px 0px #5d5d5d;
+    box-shadow: 0px 0px 10px 0px #5d5d5d;
     position: absolute;
     content: "";
     background-color: #40cad6;
@@ -1125,10 +1125,10 @@ header .container .logo :hover{
     }
     .l-cont {
         margin-top: 100px;
-        height: 650px;
+        height: 450px;
     }
     .form {
-        width: 340px;
+        width: 345px;
     }
     .form input {
         padding: 13px 10px;
