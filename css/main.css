@@ -919,6 +919,10 @@ header .container .logo :hover{
     margin: 1px;
     /* margin-top: 5px; */
 }
+.back .cap span{
+    color: #ffc863;
+    font-size: 15px;
+}
 .back .stars{
     text-align: center;
     margin-top: 5px;
