@@ -1174,7 +1174,7 @@ header .container .logo :hover{
 footer{
     font-family: "Titillium Web", sans-serif;
     text-transform: capitalize;
-    font-size: 22px;
+    font-size: 19px;
     padding: 20px;
     background-color: #4c3987;
     color: white;
@@ -1191,7 +1191,6 @@ footer .text span{
 }
 footer .text{
     margin-bottom: 5px;
-    text-transform: capitalize;
     font-family: "Titillium Web", sans-serif;
 }
 footer .icons i{
